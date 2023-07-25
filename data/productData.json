@@ -1,0 +1,29 @@
+[
+  {
+    "id": "3213213e1321r3546",
+    "title": "iPhone 14 pro",
+    "price": 1200,
+    "cont": 50,
+    "slug": "mobile-iPhone-14-pro-512-g",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur optio quo nostrum. Voluptates alias eaque iusto ducimus, molestias.",
+    "image": "images/iphone-14-pro.jpg"
+  },
+  {
+    "id": "3213213e132166646",
+    "title": "iPhone 14 pro",
+    "price": 1150,
+    "cont": 70,
+    "slug": "mobile-iPhone-14-pro-zh-512",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur optio quo nostrum. Voluptates alias eaque iusto ducimus, molestias.",
+    "image": "images/iphone-14-pro.jpg"
+  },
+  {
+    "id": "321321312341r3546",
+    "title": "iPhone 14 pro",
+    "price": 1100,
+    "cont": 30,
+    "slug": "mobile-iPhone-14-pro-256",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur optio quo nostrum. Voluptates alias eaque iusto ducimus, molestias.",
+    "image": "images/iphone-14-pro.jpg"
+  }
+]
